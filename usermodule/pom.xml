@@ -16,6 +16,7 @@
     <artifactId>usermodule</artifactId>
     <name>User Module</name>
     <description>Module quản lý người dùng với roles và permissions</description>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>21</java.version>
@@ -112,5 +113,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
